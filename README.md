@@ -1,4 +1,4 @@
-SparkFun BLE Mate 2
+SparkFun BLE Mate 2 for MSP-432
 ========================================
 
 ![SparkFun BLE Mate 2 ](https://cdn.sparkfun.com//assets/parts/9/9/8/7/13019-01.jpg)
@@ -9,9 +9,7 @@ SparkFun BLE Mate 2
 Repository Contents
 -------------------
 
-* **/Arduino** - All Arduino libraries and board examples
-* **/Hardware** - All Eagle design files (.brd, .sch)
-* **/Production** - Test bed files and production panel files
+* **/Arduino** - All MSP-432 libraries and board examples
 
 Version History
 ---------------
